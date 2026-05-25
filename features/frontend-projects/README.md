@@ -10,7 +10,7 @@ This repository is designed for practicing and improving core front-end developm
 
 | Project | Status | Description |
 |--------|--------|-------------|
-| 🎮 [XO Game (Tic Tac Toe)](./frontend-projects/xo-game/) | ✅ Done | Classic 2-player Tic Tac Toe game with win detection, draw handling, and auto restart |
+| 🎮 XO Game | ✅ Done | Classic 2-player Tic Tac Toe game with win detection, draw handling, and auto restart |
 | 🧮 Calculator App | ⏳ Upcoming | Simple calculator with basic operations |
 | 🌦 Weather App | ⏳ Upcoming | Weather app using API integration |
 | 📝 To-Do List App | ⏳ Upcoming | Task manager with local storage |
