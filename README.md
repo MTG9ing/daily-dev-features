@@ -78,7 +78,7 @@ Join the fun and level up a little every day ⚡
 
 ### 🧠 Maintained by
 
-**Mohamed (@mt9ing)**
+**Mohamed (@mtg9ing)**
 
 DM or tag me if you have ideas or want help!
 

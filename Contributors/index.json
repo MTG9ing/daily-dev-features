@@ -1,10 +1,18 @@
 [
   {
-    "name": "Mohammed Talaat",
+    "name": "Mohammed Ghazy",
     "region": "Africa/Egypt",
-    "username": "mt9ing",
-    "role": "Backend Developer",
+    "username": "mtg9ing",
+    "role": "Back-End Developer",
     "techStack": ["Node", "Typescript", "Express", "Postgresql"],
     "features": ["Date Formatter", "String Reversal"]
+  },
+  {
+    "name": "Ahmed Talaat",
+    "region": "Africa/Egypt",
+    "username": "ahmedtalaat-dev",
+    "role": "Front-End Developer",
+    "techStack": ["Node", "Typescript", "react"],
+    "features": ["frontend-projects"]
   }
 ]

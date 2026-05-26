@@ -20,7 +20,7 @@
     "url": "git+https://github.com/mt9ing/daily-dev-features.git"
   },
   "license": "ISC",
-  "author": "Mohammed Talaat",
+  "author": "Mohammed Ghazy",
   "type": "commonjs",
   "main": "server.ts",
   "scripts": {
